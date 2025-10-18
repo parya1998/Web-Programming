@@ -10,4 +10,6 @@ On CLI <b>git clone (url)<b>
     ```git commit -m "Your message"``` = for saving the file
 - Update the git repo on server <br>
     ```git status``` = check the file update status.<br>
-    ```git push```
+    ```git push``` = To push it to the main server of github.<br>
+    ```start hello.html``` for opening using CLI.<br>
+    ```git commit -am <filename> (all,message)``` = Add and commit with a single command. <br>
